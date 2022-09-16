@@ -19,7 +19,7 @@ This is just one scenario but it could happen somewhere else as well. Now, think
 ## How to use APIs
 There are two APIs built into this project requiring basic authentication, let us understand how to use each one of them - 
 
-### To upload files
+### 1. To upload files -
 
 **EndPoint**
 `/upload`
@@ -64,7 +64,7 @@ Note that you will be needing folder_id when requesting to get the download link
 
 ![post](snaps/post.jpg)
 
-### Get Download Link
+### 2. Get Download Link -
 
 **EndPoint**
 `/fetch-url`
